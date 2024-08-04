@@ -1,0 +1,1 @@
+Text[text="Sun Aug 04 13:59:41 CDT 2024", x=0.0, y=0.0, alignment=LEFT, origin=BASELINE, boundsType=LOGICAL, font=Font[name=System Regular, family=System, style=Regular, size=20.0], fontSmoothingType=GRAY, fill=0x000000ff]
